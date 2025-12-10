@@ -18,11 +18,11 @@ const AboutSection = () => {
               Qui sommes-nous
             </span>
             <h2 className="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-6">
-              <span className="text-gradient">Medisynch</span> : La planification intelligente pour la santé
+              <span className="text-gradient">Medisync</span> : La planification intelligente pour la santé
             </h2>
             
             <p className="text-lg text-muted-foreground mb-8">
-              Chez <strong className="text-foreground">Medisynch</strong>, notre mission est de rétablir l'équilibre au cœur de votre organisation. 
+              Chez <strong className="text-foreground">Medisync</strong>, notre mission est de rétablir l'équilibre au cœur de votre organisation. 
               Nous avons conçu une solution de planification intelligente, automatique et hautement paramétrable 
               pour démanteler la complexité du scheduling.
             </p>
@@ -57,7 +57,7 @@ const AboutSection = () => {
                     <span className="text-2xl font-bold text-primary-foreground font-display">M</span>
                   </div>
                   <div>
-                    <h3 className="font-display font-bold text-xl text-primary-foreground">MediSynch</h3>
+                    <h3 className="font-display font-bold text-xl text-primary-foreground">MediSync</h3>
                     <p className="text-primary-foreground/70">La simplicité au service de la vie</p>
                   </div>
                 </div>

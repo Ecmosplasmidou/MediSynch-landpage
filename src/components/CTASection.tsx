@@ -30,7 +30,7 @@ const CTASection = () => {
           </h2>
 
           <p className="text-xl text-primary-foreground/80 mb-10 max-w-2xl mx-auto">
-            Découvrez comment MediSynch peut simplifier la gestion de vos équipes 
+            Découvrez comment MediSync peut simplifier la gestion de vos équipes 
             et apporter sérénité à votre établissement de santé.
           </p>
 

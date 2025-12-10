@@ -24,7 +24,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <div className="text-primary-foreground/50 text-sm">
-            © {new Date().getFullYear()} MediSynch. Tous droits réservés.
+            © {new Date().getFullYear()} MediSync. Tous droits réservés.
           </div>
         </div>
       </div>

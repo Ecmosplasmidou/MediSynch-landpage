@@ -33,7 +33,7 @@ const HeroSection = () => {
             </h1>
             
             <p className="text-lg md:text-xl text-primary-foreground/80 mb-8 max-w-xl mx-auto lg:mx-0 animate-fade-up" style={{ animationDelay: "0.2s" }}>
-              MediSynch transforme la complexité de la planification des équipes de santé en une tâche simple et automatisée. 
+              MediSync transforme la complexité de la planification des équipes de santé en une tâche simple et automatisée. 
               Respectez les contraintes, gagnez du temps, apaisez vos équipes.
             </p>
             
