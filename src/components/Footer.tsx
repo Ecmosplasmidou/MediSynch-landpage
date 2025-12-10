@@ -7,7 +7,7 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-start gap-2">
             <div className="flex items-center gap-3">
               <span className="font-display font-bold text-xl text-primary-foreground">
-                Medi<span className="text-secondary">Synch</span>
+                Medi<span className="text-secondary">Sync</span>
               </span>
             </div>
             <p className="text-primary-foreground/60 text-sm italic">
