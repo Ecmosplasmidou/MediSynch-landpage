@@ -45,7 +45,7 @@ const HeroSection = () => {
                 </a>
               </Button>
               <Button variant="hero-outline" size="lg" asChild>
-                <a href="https://docs.google.com/forms/d/1FyN-hLRR-HpBi9Yf7kUqTLk1cv94bJMT2k-g5EidRTE/edit" target="_blank" rel="noopener noreferrer">Donnez votre avis</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuTzbgUBJB8y8WhDP9kMNFpFsUhymFF-29K6CM2T1LG-L8Sg/viewform?usp=header" target="_blank" rel="noopener noreferrer">Donnez votre avis</a>
               </Button>
             </div>
 

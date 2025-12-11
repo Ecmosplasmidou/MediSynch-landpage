@@ -43,7 +43,7 @@ const CTASection = () => {
               </a>
             </Button>
             <Button variant="hero-outline" size="lg" id="feedback" asChild>
-              <a href="https://docs.google.com/forms/d/1FyN-hLRR-HpBi9Yf7kUqTLk1cv94bJMT2k-g5EidRTE/edit" target="_blank" rel="noopener noreferrer">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuTzbgUBJB8y8WhDP9kMNFpFsUhymFF-29K6CM2T1LG-L8Sg/viewform?usp=header" target="_blank" rel="noopener noreferrer">
                 <MessageSquare className="mr-2" size={20} />
                 Donnez votre avis
               </a>

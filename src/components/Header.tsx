@@ -51,7 +51,7 @@ const Header = () => {
           {/* Desktop CTAs */}
           <div className="hidden lg:flex items-center gap-3">
             <Button variant="outline" size="sm" asChild>
-              <a href="https://docs.google.com/forms/d/1FyN-hLRR-HpBi9Yf7kUqTLk1cv94bJMT2k-g5EidRTE/edit" target="_blank" rel="noopener noreferrer">Donnez votre avis</a>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuTzbgUBJB8y8WhDP9kMNFpFsUhymFF-29K6CM2T1LG-L8Sg/viewform?usp=header" target="_blank" rel="noopener noreferrer">Donnez votre avis</a>
             </Button>
             <Button variant="accent" size="sm" asChild>
               <a href="https://medisync-scheduler-pro.vercel.app/" target="_blank" rel="noopener noreferrer">Tester l'application</a>
@@ -91,7 +91,7 @@ const Header = () => {
               </button>
               <div className="flex flex-col gap-2 pt-4">
                 <Button variant="outline" asChild>
-                  <a href="https://docs.google.com/forms/d/1FyN-hLRR-HpBi9Yf7kUqTLk1cv94bJMT2k-g5EidRTE/edit" target="_blank" rel="noopener noreferrer">Donnez votre avis</a>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuTzbgUBJB8y8WhDP9kMNFpFsUhymFF-29K6CM2T1LG-L8Sg/viewform?usp=header" target="_blank" rel="noopener noreferrer">Donnez votre avis</a>
                 </Button>
                 <Button variant="accent" asChild>
                   <a href="https://medisync-scheduler-pro.vercel.app/" target="_blank" rel="noopener noreferrer">Tester l'application</a>
